@@ -10,8 +10,6 @@
 
 </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/ridhi-purohit)
-
 - :school: I'm [Ridhi Purohit](https://www.linkedin.com/in/ridhi-purohit), currently a Master's student at University of Chicago, with a concentraion in Public Policy and Computational Analysis.
   
 - 🔭 I’m currently working on **Public Policy and NLP**
