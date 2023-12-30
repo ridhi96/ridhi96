@@ -1,23 +1,28 @@
-<div align='center'>
-  <h1> Hello there! </h1>
-</div>
+## Hi there 👋 I'm [Ridhi!](https://www.linkedin.com/in/ridhi-purohit/)
 
-<div align="center">
+### 🎓 MSc Computational Analysis & Public Policy @ [UChicago](https://www.uchicago.edu) 
 
-  <a href="https://www.linkedin.com/in/ridhi-purohit" target="_blank" rel="nofollow">
-    <img align="right" alt="Ridhi's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png">
-  </a>
+#### 🤖 Leveraging data science and ML for social good
 
-</div>
+**Skills:** Python, R, SQL, Git, AWS, GCP
 
-- :school: I'm [Ridhi Purohit](https://www.linkedin.com/in/ridhi-purohit), currently a Master's student at University of Chicago, with a concentraion in Public Policy and Computational Analysis.
+**Experience:**
+
+- :bar_chart: Machine learning, NLP, data pipelines, forecasting
+- :robot: Software compliance, risk analysis, statistical modeling  
+- :briefcase: Former [Deloitte](https://www2.deloitte.com) consultant (regulated systems)
+
+**Academic Projects:**  Update this part
+
+- :
+- :
+
+<details>
+  <summary>More about me</summary>
   
-- 🔭 I’m currently working on **Public Policy and NLP**
+  - :telescope: Check out my [website](https://www.ridhipurohit.com) for my full background
+  - :handshake: I'm open to collaborating on data science for social impact
+  - :mailbox: Reach me at ridhi@uchicago.edu 
+</details>
 
-- 💬 Ask me about anything, I am happy to help
-
-- :bulb: Occasionally I do participate in **Hackathons and Paper Presentations** 
-
-<!-- - ⚡ Languages: **Python | SPARK | SQL | HTML | CSS |** -->
-
-<br />
+Let's connect!
