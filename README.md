@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm [Ridhi!](https://www.linkedin.com/in/ridhi-purohit/)
 
-### 🎓 MSc Computational Analysis & Public Policy @ [UChicago](https://www.uchicago.edu) 
+### 🎓 M.S. Computational Analysis & Public Policy @ [UChicago](https://www.uchicago.edu) 
 
-#### 🤖 Leveraging data science and ML for social good
+#### 🤖 Leveraging data science and machine learning for social good
 
-**Skills:** Python, R, SQL, Git, AWS, GCP
+**Skills:** Python, SQL, Git, AWS, GCP, R
 
 **Experience:**
 
